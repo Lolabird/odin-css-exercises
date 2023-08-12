@@ -1,0 +1,13 @@
+.butty{
+    background-color: black;
+    color: white;
+}
+
+.buttie{
+    background-color: yellow;
+}
+
+.butty, .buttie{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman" sans-serif;
+}
