@@ -1,13 +1,13 @@
 *{
-  outline: 2px solid pink;
+  outline: solid pink;
 }
 
 .header  {
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  justify-content: space-evenly;
 }
 
 .logo {
@@ -18,10 +18,27 @@
   padding: 4px 32px;
 }
 
+.right-links { 
+  display: flex;
+}
+
+.left-links{
+  display: flex;
+}
+
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  display: flex;  
+  justify-content: space-evenly;
+  width: 100%;
+  flex-wrap: wrap;
+  padding: 0;
+}
+
+li { 
   display: flex;
+  margin: 5px;
 }
 
 a {
