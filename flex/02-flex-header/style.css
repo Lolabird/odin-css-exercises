@@ -1,13 +1,9 @@
-*{
-  outline: solid pink;
-}
-
 .header  {
   font-family: monospace;
   background: papayawhip;
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 .logo {
