@@ -1,8 +1,12 @@
+*{
+  outline: 2px solid pink;
+}
+
 .header  {
   font-family: monospace;
-  background: papayawhip; 
+  background: papayawhip;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -26,12 +30,4 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-}
-
-.left-links{
-  align-content: flex-start;
-}
-
-.right-links{
-  align-content: flex-end;
 }
