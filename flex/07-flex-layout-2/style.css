@@ -41,14 +41,13 @@ body {
   display: flex;
   flex-wrap: wrap;
   width: 300px;
-  height: 275px;
   padding: 20px;
   margin: 20px;
-  flex: auto;
 }
 
 .content {
   display: flex;
+  flex: auto;
 }
 
 .multi-card {
