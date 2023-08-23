@@ -40,10 +40,11 @@ body {
   border-radius: 4px;
   display: flex;
   flex-wrap: wrap;
-  width: 350px;
-  height: 300px;
+  width: 325px;
+  height: 275px;
   padding: 20px;
   margin: 20px;
+  flex: auto;
 }
 
 .content {
