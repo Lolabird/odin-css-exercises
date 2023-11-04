@@ -1,3 +1,6 @@
+# Lolabird Note
+Get the original exercises [here](https://github.com/TheOdinProject/css-exercises). They do updates all the time so what currently exists here, does not necessarily reflect the current state of these exercises. Also, if you're going through the Odin Project, currently, please try the exercises yourself before taking a look at mine. Otherwise Enjoy!
+
 # CSS Exercises
 
 These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be completed when instructed during the course of the curriculum.
