@@ -1,4 +1,4 @@
-# Lolabird Note
+# Lolabird's Note
 Get the original exercises [here](https://github.com/TheOdinProject/css-exercises). They do updates all the time so what currently exists here, does not necessarily reflect the current state of these exercises. Also, if you're going through the Odin Project, currently, please try the exercises yourself before taking a look at mine. Otherwise Enjoy!
 
 # CSS Exercises
